@@ -23,4 +23,9 @@
 | 40  | [组合求和II](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/recursion/lt40.go) |
 | 216  | [组合求和III](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/recursion/lt216.go) |
 
-
+## [深度优先搜索](https://github.com/fkcs/Go-Data-Structure-Algorithm/tree/master/dfs)
+|  力扣编号 | 题目  |
+|  ----  | ----  |
+| 79  | [单词搜索](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/dfs/lt79.go) |
+| 131  | [分割回文串](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/dfs/lt131.go) |
+| 322  | [硬币兑换](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/dfs/lt322.go) |
