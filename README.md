@@ -14,7 +14,7 @@
 + 二分查找
 + 并查集
 
-## [递归](https://github.com/fkcs/Go-Data-Structure-Algorithm/tree/master/recursion)
+#### [递归](https://github.com/fkcs/Go-Data-Structure-Algorithm/tree/master/recursion)
 |  力扣编号 | 题目  |
 |  ----  | ----  |
 | 46  | [全排列](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/recursion/lt46.go) |
@@ -23,7 +23,7 @@
 | 40  | [组合求和II](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/recursion/lt40.go) |
 | 216  | [组合求和III](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/recursion/lt216.go) |
 
-## [深度优先搜索](https://github.com/fkcs/Go-Data-Structure-Algorithm/tree/master/dfs)
+#### [深度优先搜索](https://github.com/fkcs/Go-Data-Structure-Algorithm/tree/master/dfs)
 |  力扣编号 | 题目  |
 |  ----  | ----  |
 | 79  | [单词搜索](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/dfs/lt79.go) |
