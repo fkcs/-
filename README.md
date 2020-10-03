@@ -36,3 +36,4 @@
 | 102  | [二叉树的层序遍历](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/bfs/lt102.go) |
 | 103  | [二叉树的锯齿形层次遍历](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/bfs/lt103.go) |
 | 513  | [找树左下角的值](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/bfs/lt513.go) |
+| 130 |  [被围绕地区域](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/bfs/lt130.go)|
