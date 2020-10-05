@@ -41,5 +41,8 @@
 ### [二叉树](https://github.com/fkcs/Go-Data-Structure-Algorithm/tree/master/tree)
 |  力扣编号 | 题目  |
 |  ----  | ----  |
+|  144  | [二叉树前序遍历](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/tree/lt144.go)  |
+|  145  | [二叉树后序遍历](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/tree/lt145.go)  |
+|  94  | [二叉树中序遍历](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/tree/lt94.go)  |
 |  105  | [从前序和后序遍历构造二叉树](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/tree/lt105.go)  |
 |  106  | [从中序和后序遍历构造二叉树](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/tree/lt106.go)  |
