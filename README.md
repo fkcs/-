@@ -44,9 +44,14 @@
     + [105.从前序和后序遍历构造二叉树](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/tree/lt105.go) 
     + [106.从中序和后序遍历构造二叉树](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/tree/lt106.go) 
     
-+ [二叉树](https://github.com/fkcs/Go-Data-Structure-Algorithm/tree/master/sort)
++ [排序](https://github.com/fkcs/Go-Data-Structure-Algorithm/tree/master/sort)
     + [冒泡排序](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/sort/bubblesort.go)
     + [插入排序](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/sort/insertsort.go)
     + [选择排序](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/sort/selectSort.go)
     + [合并排序](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/sort/mergesort.go)
     + [快排](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/sort/quicksort.go)
+    
++ [动态规划](https://github.com/fkcs/Go-Data-Structure-Algorithm/tree/master/dp)
+    + [62.不同路径](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/dp/lt62.go)
+    + [63.不同路径II](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/dp/lt63.go)
+    + [64.最小路径和](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/dp/lt64.go)
