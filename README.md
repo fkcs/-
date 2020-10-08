@@ -6,7 +6,7 @@
 + [力扣刷题之递归](https://zhuanlan.zhihu.com/p/260838113)
 + [力扣刷题之DFS](https://zhuanlan.zhihu.com/p/261085225)
 + [力扣刷题之BFS](https://zhuanlan.zhihu.com/p/261328607)
-+ 力扣刷题之动态规划
++ [力扣刷题之动态规划](https://zhuanlan.zhihu.com/p/261808494)
 + [力扣刷题之二叉树](https://zhuanlan.zhihu.com/p/262051275)
 + 力扣刷题之哈希
 + 力扣刷题之堆
