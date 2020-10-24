@@ -56,3 +56,8 @@
     + [62.不同路径](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/dp/lt62.go)
     + [63.不同路径II](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/dp/lt63.go)
     + [64.最小路径和](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/dp/lt64.go)
+    
++ [哈希]()
+    + [290.单词规律I]()
+    + [291.单词规律II]()
+    + [525.连续数组]()
