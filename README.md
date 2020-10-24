@@ -58,6 +58,6 @@
     + [64.最小路径和](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/dp/lt64.go)
     
 + [哈希]()
-    + [290.单词规律I]()
-    + [291.单词规律II]()
-    + [525.连续数组]()
+    + [290.单词规律I](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/hashmap/lt290.go)
+    + [291.单词规律II](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/hashmap/lt291.go)
+    + [525.连续数组](https://github.com/fkcs/Go-Data-Structure-Algorithm/blob/master/hashmap/lt525.go)
